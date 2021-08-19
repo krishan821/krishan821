@@ -1,4 +1,4 @@
-
+## Hi I'm Krishan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <h1 style="text-align: center;"> About me!</h1>
 <h5>I’m Krishan Pathak third year undergrad student pursuing Computer Science and Business Systems, Aspiring UI/UX Designer and a Web Developer by profession. Skilled in java (programming language), C++, C, My SQL, Postgrey SQL, Data Structures, HTML, CSS, JS. I had a fluent skills in Adobe illustrator and Figma.
