@@ -40,7 +40,13 @@
 </a>
 
 <div align="center">
+  
+ ### Connect with me:
 
+<img align="left" alt="https://krishan821.github.io/p/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />website
+<img align="left" alt="https://www.linkedin.com/in/krishan-pathak-b8bb80192/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />linkedin
+
+<br />
 
 
 
