@@ -33,9 +33,12 @@
 <br>
 
 <div style="display:flex;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishan821&layout=compact&bg_color=171717&text_color=ffffff&icon_color=000000" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=krishan821&bg_color=171717&text_color=ffffff&icon_color=71E8F1" />
-
+  <a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishan821&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishan821&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
 </div>
 
 
