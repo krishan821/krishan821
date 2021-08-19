@@ -32,21 +32,20 @@
 <br>
 <br>
 
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishan821&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishan821&show_icons=true&theme=light&line_height=27" alt="krishan's github stats"/>
-</a>
+<div style="display:flex;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishan821&layout=compact&bg_color=171717&text_color=ffffff&icon_color=000000" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=krishan821&bg_color=171717&text_color=ffffff&icon_color=71E8F1" />
 
-<div align="center">
+</div>
+
+
   
- ### Connect with me:
 
-<img align="left" alt="https://krishan821.github.io/p/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />website
-<img align="left" alt="https://www.linkedin.com/in/krishan-pathak-b8bb80192/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />linkedin
 
-<br />
 
+
+
+
+  
 
 
