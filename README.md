@@ -1,10 +1,12 @@
-## Hi I'm Krishan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<h1 align="center">I'm Krishan  <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
+</h1>
 
 <h1 style="text-align: center;"> About me!</h1>
+<img align="right" width=300px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
 <h5>I’m Krishan Pathak third year undergrad student pursuing Computer Science and Business Systems, Aspiring UI/UX Designer and a Web Developer by profession. Skilled in java (programming language), C++, C, My SQL, Postgrey SQL, Data Structures, HTML, CSS, JS. I had a fluent skills in Adobe illustrator and Figma.
   <br>
    Being an innovator and a creative person I always liked to play with user interfaces of various apps and websites and test them & improvise them with better user experience for better results.</h5>
- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+ 
 
     
     
@@ -22,7 +24,7 @@
   <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></a>
   <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></a>
   <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS"></a>
-  <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></a>
+  
 
 
 </div>
@@ -42,9 +44,10 @@
   
 
 
-
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishan821&" alt="krishan821" /></p>
 </div>
+
 
 
   
