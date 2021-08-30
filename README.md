@@ -8,10 +8,7 @@
 <h5>I’m Krishan Pathak third year undergrad student pursuing Computer Science and Business Systems, Aspiring UI/UX Designer and a Web Developer by profession. Skilled in java (programming language), C++, C, My SQL, Postgrey SQL, Data Structures, HTML, CSS, JS. I had a fluent skills in Adobe illustrator and Figma.
   <br>
    Being an innovator and a creative person I always liked to play with user interfaces of various apps and websites and test them & improvise them with better user experience for better results.</h5>
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-    
-    
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="260" />
 <br><h1> **Languages and Tools:**  </h1>
 <div style="display:flex;">
   <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html"></a>
@@ -31,12 +28,14 @@
 <br>
 <br>
 <br>
+  <br>
+  <br>
 <p align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=krishan821&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=krishan821&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
-  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="right" width=300px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishan821&" alt="krishan821" /></p>
 </div>
 
