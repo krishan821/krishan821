@@ -33,6 +33,10 @@
 
 <br>
 <br>
+<br>
+<br>
+<p align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
 
 <div style="display:flex;">
   <a href="https://github.com/iampawan">
