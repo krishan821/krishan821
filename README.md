@@ -48,6 +48,20 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishan821&" alt="krishan821" /></p>
 </div>
 
+# Connect with me <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" height="32px">
+
+[<img align="left" alt="krishan_websitr" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />](https://krishan821.github.io/MyNewPortfolio/)
+
+[<img align="left" alt="krishan821 | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/krishan-pathak-b8bb80192/)
+
+
+
+[<img align="left" alt="krishan821 | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/krishan_003/)
+
+
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=krishan8218&repo=krishan8218&countColorcountColor&countColor=%237B1E7B"/>
+
 
 
   
