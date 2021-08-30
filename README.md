@@ -42,7 +42,7 @@
  <br>
 <p align="center">
    <img height="180" width="160" src="https://github.com/Harshal0902/Harshal0902/blob/main/gamer.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Harshal0902&theme=neon-dark"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=krishan821&theme=neon-dark"/>
    <img height="180" width="160" src="https://github.com/Harshal0902/Harshal0902/blob/main/IronMan.png">
 </p>
 <br>
