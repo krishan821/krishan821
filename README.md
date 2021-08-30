@@ -37,8 +37,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishan821&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishan821&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishan821&show_icons=true&theme=light&line_height=27" alt="krishan821"/>
 </a>
+  
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishan821&" alt="krishan821" /></p>
 </div>
 
 
