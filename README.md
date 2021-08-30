@@ -37,9 +37,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=krishan821&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=krishan821&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
-<img align="right" width=300px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishan821&" alt="krishan821" /></p>
-</div>
+ <br>
+ <br>
+ <br>
+<p align="center">
+   <img height="180" width="160" src="https://github.com/Harshal0902/Harshal0902/blob/main/gamer.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Harshal0902&theme=neon-dark"/>
+   <img height="180" width="160" src="https://github.com/Harshal0902/Harshal0902/blob/main/IronMan.png">
+</p>
 <br>
 <br>
 ### 📢 Find me elsewhere
