@@ -4,7 +4,7 @@
 <h5>I’m Krishan Pathak third year undergrad student pursuing Computer Science and Business Systems, Aspiring UI/UX Designer and a Web Developer by profession. Skilled in java (programming language), C++, C, My SQL, Postgrey SQL, Data Structures, HTML, CSS, JS. I had a fluent skills in Adobe illustrator and Figma.
   <br>
    Being an innovator and a creative person I always liked to play with user interfaces of various apps and websites and test them & improvise them with better user experience for better results.</h5>
-
+ <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
     
     
@@ -23,7 +23,7 @@
   <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></a>
   <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS"></a>
   <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></a>
- 
+
 
 </div>
 
