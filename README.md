@@ -1,3 +1,11 @@
+<img width="70%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<br>
+<br>
+
+
+
+
+
 <h1 align="center"><img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Earth.gif" width="24px"> 
   <br>
 <h1 align="center">I'm Krishan Pathak  <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
