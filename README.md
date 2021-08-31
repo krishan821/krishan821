@@ -7,7 +7,7 @@
 
 <h1 style="text-align: center;"> About me!</h1>
 
-<h5>I’m Krishan Pathak third year undergrad student pursuing Computer Science and Business Systems, Aspiring UI/UX Designer and a Web Developer by profession. Skilled in java (programming language), C++, C, My SQL, Postgrey SQL, Data Structures, HTML, CSS, JS. I had a fluent skills in Adobe illustrator and Figma.
+<h5>I’m Krishan Pathak third year undergrad student pursuing Computer Science , Aspiring UI/UX Designer and a Web Developer by profession. Skilled in java (programming language), C++, C, My SQL, Postgrey SQL, Data Structures, HTML, CSS, JS. I had a fluent skills in Adobe illustrator and Figma.
   <br>
    Being an innovator and a creative person I always liked to play with user interfaces of various apps and websites and test them & improvise them with better user experience for better results.</h5>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="260" />
