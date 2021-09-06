@@ -65,7 +65,7 @@
 
 # Connect with me <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" height="32px">
 
-[<img align="left" alt="krishan_websitr" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />](https://krishan821.github.io/MyNewPortfolio/)
+
 
 [<img align="left" alt="krishan821 | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/krishan-pathak-b8bb80192/)
 
